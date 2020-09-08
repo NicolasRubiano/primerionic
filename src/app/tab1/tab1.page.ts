@@ -15,6 +15,7 @@ export class Tab1Page implements OnInit{
     numero=20;
     numero=0;
     console.log('Hola mundo');
+    console.log('chao');
   }
   
 
